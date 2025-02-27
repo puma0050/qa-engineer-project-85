@@ -450,11 +450,13 @@
     Открывается игра с ботом, отображается выбранная нами задача
 
     
-# Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
+# Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, 
+Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
 - summary: |
     Выбор языка программирования Clojure во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, 
+    Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
   test-data: |
@@ -471,7 +473,8 @@
 - summary: |
     Выбор языка программирования С++ во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
   test-data: |
@@ -488,7 +491,8 @@
 - summary: |
     Выбор языка программирования C# во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
   test-data: |
@@ -505,7 +509,8 @@
 - summary: |
     Выбор языка программирования Dart во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
   test-data: |
@@ -522,7 +527,8 @@
 - summary: |
     Выбор языка программирования Elixir во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
   test-data: |
@@ -539,7 +545,8 @@
 - summary: |
     Выбор языка программирования Golang во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
   test-data: |
@@ -556,7 +563,8 @@
 - summary: |
     Выбор языка программирования Haskell во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
   test-data: |
@@ -573,7 +581,8 @@
 - summary: |
     Выбор языка программирования Java во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
   test-data: |
@@ -590,7 +599,8 @@
 - summary: |
     Выбор языка программирования Node.js во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
   test-data: |
@@ -607,7 +617,8 @@
 - summary: |
     Выбор языка программирования Kotlin во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
   test-data: |
@@ -624,7 +635,8 @@
 - summary: |
     Выбор языка программирования Php во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
   test-data: |
@@ -641,7 +653,8 @@
 - summary: |
     Выбор языка программирования Pithon во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
   test-data: |
@@ -658,7 +671,8 @@
 - summary: |
     Выбор языка программирования Ruby во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
   test-data: |
@@ -675,7 +689,8 @@
 - summary: |
     Выбор языка программирования Rust во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
   test-data: |
@@ -692,7 +707,8 @@
 - summary: |
     Выбор языка программирования Typescript во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
   test-data: |
@@ -788,7 +804,7 @@
 
 # Пользователь может проверить свой код во время игры
 - summary: |
-    Проверка неверного кода во время игры
+    Проверка неверного написания кода во время игры
   requirement: |
     Пользователь может проверить свой код во время игры
   prerequisites: |
@@ -805,7 +821,7 @@
     Игра уведомляет нас о неверном коде
 
 - summary: |
-    Проверка правльного кода во время игры
+    Проверка правильности написания кода во время игры
   requirement: |
     Пользователь может проверить свой код во время игры
   prerequisites: |
@@ -824,25 +840,252 @@
     
 # Пользователь должен иметь возможность посмотреть свой профиль, где отображается его статистика игр, и сыгранные им игры
 - summary: |
-    Проверка правльного кода во время игры
+    Просмотр статистики своих сыгранных игр 
   requirement: |
-    Пользователь может проверить свой код во время игры
+    Пользователь должен иметь возможность посмотреть свой профиль, где отображается его статистика игр, и сыгранные им игры
   prerequisites: |
     Открыта главная страница
   test-data: |
     no data
   steps:
-    - Нажимаем кнопку "Create a game"
-    - Выбираем тип игры "With a bot" 
-    - Выбираем нужную нам задачу
-    - Нажимаем кнопку "Create battle"
-    - Набираем код согластно задания
+    - Нажимаем на свою иконку игрока
+    - В выпадающем списке выбираем "My profile"
+    - Выбираем вкладку "Statistics"
   expected-result: |
-    Игра уведомляет нас о выйгрыше
+    Открывается статистика всех выгранных нами игр, где отображается ранк, рэйтинг, количество сыгранных игр, график выгранных 
+    и проигранных игр, график использования языков программирования, и Ваша активность на сайте
+
+- summary: |
+    Просмотр своих сыгранных игр 
+  requirement: |
+    Пользователь должен иметь возможность посмотреть свой профиль, где отображается его статистика игр, и сыгранные им игры
+  prerequisites: |
+    Открыта главная страница
+  test-data: |
+    no data
+  steps:
+    - Нажимаем на свою иконку игрока
+    - В выпадающем списке выбираем "My profile"
+    - Выбираем вкладку "Completed games"
+  expected-result: |
+    Открывается все сыгранные нами игры, где указаны: сложность игры, никнеймы игроков, дата игры, и кнопка просмотра результатов игры
+
+    
 # Пользователь должен иметь возможность настроить свой профиль
+- summary: |
+    Смена никнейма в настройках профиля 
+  requirement: |
+    Пользователь должен иметь возможность настроить свой профиль
+  prerequisites: |
+    Открыта главная страница
+  test-data: |
+    Ключевое слово = "Test"
+  steps:
+    - Нажимаем на свою иконку игрока
+    - В выпадающем списке выбираем "Settings"
+    - В графе "Your name" набираем ключевое слово
+    - Нажимаем кнопку "Save"
+  expected-result: |
+    Появилась надпись "Your settings has been changed"
+
+- summary: |
+    Смена предпочитаемого языка програмиирования в настройках профиля 
+  requirement: |
+    Пользователь должен иметь возможность настроить свой профиль
+  prerequisites: |
+    Открыта главная страница
+  test-data: |
+    no data
+  steps:
+    - Нажимаем на свою иконку игрока
+    - В выпадающем списке выбираем "Settings"
+    - В графе "Your weapon" выбираем язык программирования
+    - Нажимаем кнопку "Save"
+  expected-result: |
+    Появилась надпись "Your settings has been changed"
+
+- summary: |
+    Смена клана в настройках профиля 
+  requirement: |
+    Пользователь должен иметь возможность настроить свой профиль
+  prerequisites: |
+    Открыта главная страница
+  test-data: |
+    Ключевое слово = "Test"
+  steps:
+    - Нажимаем на свою иконку игрока
+    - В выпадающем списке выбираем "Settings"
+    - В графе "Your clan" набираем ключевое слово
+    - Нажимаем кнопку "Save"
+  expected-result: |
+    Появилась надпись "Your settings has been changed"
+
+- summary: |
+    Смена музыки и регулировка звука в настройках профиля 
+  requirement: |
+    Пользователь должен иметь возможность настроить свой профиль
+  prerequisites: |
+    Открыта главная страница
+  test-data: |
+    no data
+  steps:
+    - Нажимаем на свою иконку игрока
+    - В выпадающем списке выбираем "Settings"
+    - В графе "Select sound type" выбираем музыку
+    - Регулируем громкость музыки 
+    - Нажимаем кнопку "Save"
+  expected-result: |
+    Появилась надпись "Your settings has been changed"
+
+- summary: |
+    Прикрепление Github в настройках профиля
+  requirement: |
+    Пользователь должен иметь возможность настроить свой профиль
+  prerequisites: |
+    Открыта главная страница
+  test-data: |
+    no data
+  steps:
+    - Нажимаем на свою иконку игрока
+    - В выпадающем списке выбираем "Settings"
+    - Нажимаем на гиперссылку "Link Github"
+    - Заходим через Github
+  expected-result: |
+    Гиперссылка "Link Github" изменилась на "Unlink Github"
+
+- summary: |
+    Прикрепление Discord в настройках профиля
+  requirement: |
+    Пользователь должен иметь возможность настроить свой профиль
+  prerequisites: |
+    Открыта главная страница
+  test-data: |
+    no data
+  steps:
+    - Нажимаем на свою иконку игрока
+    - В выпадающем списке выбираем "Settings"
+    - Нажимаем на гиперссылку "Link Discord"
+    - Заходим через Github
+  expected-result: |
+    Гиперссылка "Link Discord" изменилась на "Unlink Discord"
+
+    
 # Пользователи должны иметь возможность создавать свои задачи
+- summary: |
+    Создание своей задачи пользователем
+  requirement: |
+    Пользователи должны иметь возможность создавать свои задачи
+  prerequisites: |
+    Открыта главная страница
+  test-data: |
+    no data
+  steps:
+    - Нажимаем на свою иконку игрока
+    - В выпадающем списке выбираем "Tasks"
+    - Нажимаем кнопку "Create new task"
+    - Заполняем шаг 1
+    - Заполняем шаг 2
+    - Заполняем шаг 3
+    - Заполняем шаг 4
+    - Нажимаем кнопку "Testing"
+    - Нажмаем кнопку "Save"
+  expected-result: |
+    Задача добавлена в раздел "Tasks"
+
+
 # Должна быть реализованы переходы в Hexlet, Github, Discord, TG разработчиков
+- summary: |
+    Переход в Hexlet разработчиков
+  requirement: |
+    Должна быть реализованы переходы в Hexlet, Github, Discord, TG разработчиков
+  prerequisites: |
+    Открыта главная страница
+  test-data: |
+    no data
+  steps:
+    - Нажимаем на свою иконку игрока
+    - В выпадающем списке выбираем "Hexlet"
+  expected-result: |
+    Открывается сайт "https://ru.hexlet.io/"
+
+- summary: |
+    Переход в Github разработчиков
+  requirement: |
+    Должна быть реализованы переходы в Hexlet, Github, Discord, TG разработчиков
+  prerequisites: |
+    Открыта главная страница
+  test-data: |
+    no data
+  steps:
+    - Нажимаем на свою иконку игрока
+    - В выпадающем списке выбираем "Source code"
+  expected-result: |
+    Открывается Github разработчика с проектом "https://github.com/hexlet-codebattle/codebattle"
+
+- summary: |
+    Переход в Discord разработчиков
+  requirement: |
+    Должна быть реализованы переходы в Hexlet, Github, Discord, TG разработчиков
+  prerequisites: |
+    Открыта главная страница
+  test-data: |
+    no data
+  steps:
+    - Нажимаем на свою иконку игрока
+    - В выпадающем списке выбираем "Join Discord"
+  expected-result: |
+    Открывается Discord разработчика "https://discord.gg/dTpFXrYU3v"
+
+- summary: |
+    Переход в TG разработчиков
+  requirement: |
+    Должна быть реализованы переходы в Hexlet, Github, Discord, TG разработчиков
+  prerequisites: |
+    Открыта главная страница
+  test-data: |
+    no data
+  steps:
+    - Нажимаем на свою иконку игрока
+    - В выпадающем списке выбираем "TG#codebattle"
+  expected-result: |
+    Открывается TG разработчика "https://t.me/hexletcommunity/5"
+
+    
 # У игроков должен быть реализован рейтинг
+- summary: |
+    Переход в TG разработчиков
+  requirement: |
+    У игроков должен быть реализован рейтинг
+  prerequisites: |
+    Открыта главная страница
+  test-data: |
+    no data
+  steps:
+    - Нажимаем на свою иконку игрока
+    - В выпадающем списке выбираем "TG#codebattle"
+  expected-result: |
+    Открывается TG разработчика "https://t.me/hexletcommunity/5"
+
+    
+# Пользователь должен взаимодействовать с другими игроками (смотреть их статистику, следить, общаться в личных сообщениях, приглашать в игру)
+- summary: |
+    Рейтинг игроков за неделю в главном меню
+  requirement: |
+    У игроков должен быть реализован рейтинг
+  prerequisites: |
+    Открыта главная страница
+  test-data: |
+    no data
+  steps:
+    - Нажимаем на свою иконку игрока
+    - В выпадающем списке выбираем "TG#codebattle"
+  expected-result: |
+    Открывается TG разработчика "https://t.me/hexletcommunity/5"
+
+
+
+
+
 
 # Негативные тест-кейсы
 # Должна быть реальзована возможность регистрации пользователя, с возможностью входа через Github и Discord
@@ -858,7 +1101,8 @@
 # При создании лобби пользователь должен иметь возможность выбора с кем играть (с другим пользователем, с другом, с ботом)
 # При создании лобби пользователь должен иметь возможность выбора времени игры
 # При создании лобби пользователь должен иметь возможность выбора задачи
-# Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
+# Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
 # В игре должен быть реализован чат
 # Во время игры у пользователя должна быть возможность сдаться 
 # Пользователь должен иметь возможность посмотреть свой профиль, где отображается его статистика игр, и сыгранные им игры
