@@ -725,7 +725,7 @@ Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescr
 
 # В игре должен быть реализован чат
 - summary: |
-    Проверка чата в игре
+    Отправка сообщения в чат в игре
   requirement: |
     В игре должен быть реализован чат
   prerequisites: |
