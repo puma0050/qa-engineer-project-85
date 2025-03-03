@@ -455,7 +455,7 @@ Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescr
 - summary: |
     Выбор языка программирования Clojure во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, 
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования С++, Clojure, C#, Dart, 
     Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
@@ -473,7 +473,7 @@ Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescr
 - summary: |
     Выбор языка программирования С++ во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования С++, Clojure, C#, 
     Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
@@ -491,7 +491,7 @@ Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescr
 - summary: |
     Выбор языка программирования C# во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования С++, Clojure, C#, 
     Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
@@ -509,7 +509,7 @@ Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescr
 - summary: |
     Выбор языка программирования Dart во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования С++, Clojure, C#, 
     Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
@@ -527,7 +527,7 @@ Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescr
 - summary: |
     Выбор языка программирования Elixir во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования С++, Clojure, C#, 
     Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
@@ -545,7 +545,7 @@ Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescr
 - summary: |
     Выбор языка программирования Golang во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования С++, Clojure, C#, 
     Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
@@ -563,7 +563,7 @@ Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescr
 - summary: |
     Выбор языка программирования Haskell во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования С++, Clojure, C#, 
     Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
@@ -581,7 +581,7 @@ Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescr
 - summary: |
     Выбор языка программирования Java во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования С++, Clojure, C#, 
     Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
@@ -599,7 +599,7 @@ Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescr
 - summary: |
     Выбор языка программирования Node.js во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования С++, Clojure, C#, 
     Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
@@ -617,7 +617,7 @@ Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescr
 - summary: |
     Выбор языка программирования Kotlin во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования С++, Clojure, C#, 
     Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
@@ -635,7 +635,7 @@ Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescr
 - summary: |
     Выбор языка программирования Php во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования С++, Clojure, C#, 
     Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
@@ -653,7 +653,7 @@ Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescr
 - summary: |
     Выбор языка программирования Pithon во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования С++, Clojure, C#, 
     Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
@@ -671,7 +671,7 @@ Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescr
 - summary: |
     Выбор языка программирования Ruby во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования С++, Clojure, C#, 
     Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
@@ -689,7 +689,7 @@ Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescr
 - summary: |
     Выбор языка программирования Rust во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования С++, Clojure, C#, 
     Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
@@ -707,7 +707,7 @@ Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescr
 - summary: |
     Выбор языка программирования Typescript во время игры
   requirement: |
-    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, 
+    Во время игры пользователь должен иметь возможность выбрать следующие языки программирования С++, Clojure, C#, 
     Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
   prerequisites: |
     Открыта главная страница
