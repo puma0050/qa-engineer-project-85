@@ -134,8 +134,7 @@
   status: pass
 
     
-# Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, 
-Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
+# Во время игры пользователь должен иметь возможность выбрать следующие языки программирования: С++, Clojure, C#, Dart, Elixir, Golang, Haskell, Java, Node.js, Kotlin, Php, Pithon, Ruby, Rust, Typescript
 - summary: |
     Выбор языка программирования Clojure во время игры
   status: pass
