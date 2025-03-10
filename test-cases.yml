@@ -741,14 +741,13 @@
     Создана игра с ботом, уровень сложности 1 звезда, задание "rect_area", остальные параметры по умолчанию
     Выбран язык программирования NodeJS
   test-data: |
-    Выйгрышный код "const _ = require("lodash");
-const R = require("rambda");
-
-const solution = (width, length) => {
-  return width * length;
-};
-
-module.exports = solution;"
+    Выйгрышный код 
+#const _ = require("lodash");
+#const R = require("rambda");
+#const solution = (width, length) => {
+#  return width * length;
+#};
+#module.exports = solution;
   steps:
     - Набираем "Выйгрышный код"
   expected-result: |
